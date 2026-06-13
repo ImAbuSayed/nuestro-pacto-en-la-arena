@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nuestro-pacto-en-la-arena/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Nuestro pacto en la arena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nuestro-pacto-en-la-arena/) |
+| **Get License** | [Get License For Nuestro pacto en la arena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nuestro-pacto-en-la-arena/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo la luna en Barcelona, tú y yo sin frenos
+> Con esa mirada de fuego quemando el veneno
+> Tengo tu cuerpo en mi mente, no hay forma de huir
+> Baby, you know, que esta noche nacimos pa' sentir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
