@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nuestro pacto en la arena
+
+This log tracks the cryptographic history and versioning for the song **Nuestro pacto en la arena** (nuestro-pacto-en-la-arena).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T19:07:14.335713 | `v1` | `e9cd446c6f10962681c80617e6cd12448d5d6dc492d8d75404b6fe84aed4688e` | `8473f4a719936294b7ebfbe6bbe895f8ad9b418b353efd1773dbd6ee587cd5d5` | `2026-06-13_nuestro-pacto-en-la-arena-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

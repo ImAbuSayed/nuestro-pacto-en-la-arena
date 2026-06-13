@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nuestro-pacto-en-la-arena/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Nuestro pacto en la arena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nuestro-pacto-en-la-arena/) |
+| **Get License** | [Get a Licensing Quote for Nuestro pacto en la arena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nuestro-pacto-en-la-arena/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e9cd446c6f10962681c80617e6cd12448d5d6dc492d8d75404b6fe84aed4688e` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
